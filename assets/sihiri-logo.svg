@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#1A1A2E" />
+  
+  <!-- Outer Ring -->
+  <circle cx="100" cy="100" r="85" fill="none" stroke="#4D4DFF" stroke-width="2" />
+  
+  <!-- Creative Elements -->
+  <!-- Paintbrush -->
+  <path d="M60,70 C65,65 85,55 100,70 C115,85 125,75 130,70" stroke="#FF6B6B" stroke-width="3" fill="none" stroke-linecap="round" />
+  
+  <!-- Music Note -->
+  <path d="M130,90 L130,130 C130,140 120,145 110,140 C100,135 100,120 110,115 C120,110 130,115 130,125" stroke="#FFD166" stroke-width="3" fill="none" />
+  
+  <!-- Film Strip -->
+  <rect x="70" y="100" width="40" height="30" rx="5" fill="none" stroke="#06D6A0" stroke-width="2" />
+  <rect x="75" y="105" width="5" height="5" fill="#06D6A0" />
+  <rect x="85" y="105" width="5" height="5" fill="#06D6A0" />
+  <rect x="95" y="105" width="5" height="5" fill="#06D6A0" />
+  <rect x="75" y="120" width="5" height="5" fill="#06D6A0" />
+  <rect x="85" y="120" width="5" height="5" fill="#06D6A0" />
+  <rect x="95" y="120" width="5" height="5" fill="#06D6A0" />
+  
+  <!-- Code/Blockchain Element -->
+  <path d="M50,140 L65,130 L50,120 M90,140 L75,130 L90,120" stroke="#4D4DFF" stroke-width="3" fill="none" stroke-linecap="round" />
+  
+  <!-- Center Connection Point -->
+  <circle cx="100" cy="100" r="15" fill="#4D4DFF" opacity="0.3" />
+  <circle cx="100" cy="100" r="5" fill="#4D4DFF" />
+  
+  <!-- Text -->
+  <text x="100" y="170" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">SiHiRi</text>
+</svg>
