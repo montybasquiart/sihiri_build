@@ -18,7 +18,7 @@ We aim to achieve this through a phased approach over the next decade, focusing 
 
 ## Milestone Roadmap
 
-### Phase 1: Foundations (0–12 months)
+### Phase 1: Foundations
 
 - Deploy Clarity contracts for identity, ownership, and royalties
 - Build NFT primitives with dynamic metadata (supporting art, music, film, 3D)
@@ -27,7 +27,7 @@ We aim to achieve this through a phased approach over the next decade, focusing 
 - Launch basic marketplace for artists with instant payments and fixed royalties
 - Open GitHub repo + community docs → encourage open-source collaboration
 
-### Phase 2: Growth & Interoperability (1–3 years)
+### Phase 2: Growth & Interoperability
 
 - Build cross-chain bridges (Ethereum, Cardano, Solana)
 - Release SDKs & plugins for Design Apps, Blender, Figma, Unity, Unreal
@@ -37,7 +37,7 @@ We aim to achieve this through a phased approach over the next decade, focusing 
 - Begin DAO for governance (voting, funding proposals, disputes)
 - Enable micro-patronage & tipping systems
 
-### Phase 3: AI + Co-Creation (3–5 years)
+### Phase 3: AI + Co-Creation
 
 - Develop AI Creative Co-Pilot (style suggestions, plagiarism detection, collaborator matching)
 - Enable AI-assisted minting (generative art, music, scriptwriting) with clear proof of authorship
@@ -45,7 +45,7 @@ We aim to achieve this through a phased approach over the next decade, focusing 
 - Integrate decentralized archives for permanent cultural preservation
 - Onboard educational modules → workshops, mentorship, tutorials
 
-### Phase 4: The Creative Civilization (5–10 years)
+### Phase 4: The Creative Civilization
 
 - Power metaverse-native experiences (festivals, exhibitions, VR concerts)
 - Build immersive collaboration suites (like Blender/Adobe, but Web3-native)
