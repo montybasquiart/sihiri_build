@@ -25,7 +25,7 @@ SiHiRi is not just a platform—it's a **Creative Operating System** for creatio
 - Launch basic marketplace for artists with instant payments and fixed royalties
 - Open GitHub repo + community docs → encourage open-source collaboration
 
-### Phase 2: Growth & Interoperability (1–3 years)
+### Phase 2: Growth & Interoperability (1–3 years)git push -u origin main
 
 - Build cross-chain bridges (Ethereum, Cardano, Solana)
 - Release SDKs & plugins for Blender, Figma, Unity, Unreal
