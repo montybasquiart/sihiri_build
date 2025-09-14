@@ -23,13 +23,13 @@ We aim to achieve this through a phased approach over the next decade, focusing 
 - Deploy Clarity contracts for identity, ownership, and royalties
 - Build NFT primitives with dynamic metadata (supporting art, music, film, 3D)
 - Create a creator wallet & dashboard (onboarding, minting, managing works)
-- Integrate decentralized storage (IPFS, Arweave)
+- Integrate decentralized storage
 - Launch basic marketplace for artists with instant payments and fixed royalties
 - Open GitHub repo + community docs → encourage open-source collaboration
 
 ### Phase 2: Growth & Interoperability
 
-- Build cross-chain bridges (Ethereum, Cardano, Solana)
+- Build cross-chain bridges (Ethereum, Cardano)
 - Release SDKs & plugins for Design Apps, Blender, Figma, Unity, Unreal
 - Introduce token-gated communities for private exhibitions or fan clubs
 - Add dynamic royalty contracts (royalties based on context of use)
