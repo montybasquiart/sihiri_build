@@ -4,15 +4,17 @@
   <img src="assets/sihiri-logo.svg" alt="SiHiRi Logo" width="200"/>
 </p>
 
-> A decentralized creative ecosystem built on Clarity and Web3, empowering artists, filmmakers, musicians, game developers, and the broader creative industry.
+> A decentralized open-sourced creative ecosystem built on Clarity and Web3, empowering artists, filmmakers, musicians, game developers, and the broader creative industry.
 
 ## 🎯 Core Vision
 
-SiHiRi is not just a platform—it's a **Creative Operating System** for creation, collaboration, distribution, royalties, and preservation of art in all forms:
+SiHiRi is not just a platform — it's a **Creative Operating System** for creation, collaboration, distribution, royalties, and preservation of art in all forms:
 
 - Built with **Clarity smart contracts**, decentralized storage, and modular updates
 - A hub where creativity meets AI co-creation, DAOs, NFTs, gamification, and cultural preservation
 - A single marketplace where every brushstroke, beat, 3D model, film frame, or shader is not just uploaded — it's alive
+
+We aim to achieve this through a phased approach over the next decade, focusing on:
 
 ## 🗓 Milestone Roadmap
 
@@ -25,10 +27,10 @@ SiHiRi is not just a platform—it's a **Creative Operating System** for creatio
 - Launch basic marketplace for artists with instant payments and fixed royalties
 - Open GitHub repo + community docs → encourage open-source collaboration
 
-### Phase 2: Growth & Interoperability (1–3 years)git push -u origin main
+### Phase 2: Growth & Interoperability (1–3 years)
 
 - Build cross-chain bridges (Ethereum, Cardano, Solana)
-- Release SDKs & plugins for Blender, Figma, Unity, Unreal
+- Release SDKs & plugins for Design Apps, Blender, Figma, Unity, Unreal
 - Introduce token-gated communities for private exhibitions or fan clubs
 - Add dynamic royalty contracts (royalties based on context of use)
 - Launch mobile-first creative hub with discovery feeds
@@ -59,11 +61,11 @@ SiHiRi is not just a platform—it's a **Creative Operating System** for creatio
 - **Inclusive** → onboarding for underrepresented artists globally
 - **Future-proof** → AI-assisted, modular, decentralized forever
 
-## 🌐 The SiHiRi Ecosystem
+## The SiHiRi Ecosystem
 
-A digital economy where:
+We are building a digital economy where:
 
-- 🎨 Artists mint layers of creativity (textures, models, music, storyboards) as building blocks
+- 🎨 Artists mint layers of creativity (designs, textures, models, music, storyboards, etc) as building blocks
 - 🎮 Game studios plug into this open library to source characters, worlds, and mechanics — with royalties flowing back to creators forever
 - 🎥 Filmmakers commission renders, animations, and VFX from a global pool of render-nodes and collaborators, paid instantly in STX
 - 🖼 Collectors don't just buy art, they own the provenance of entire creative chains — who modeled the character, who textured it, who rigged it, who directed the scene
@@ -77,7 +79,7 @@ This isn't a static NFT marketplace. It's a creative operating system:
 - Linked through IPFS/Arweave archives (no asset ever disappears)
 - Governed by creators themselves through DAOs
 
-## 🚀 Getting Started
+## Getting Started
 
 > Note: SiHiRi is currently in early development. This section will be updated as the project progresses.
 
@@ -91,7 +93,7 @@ This isn't a static NFT marketplace. It's a creative operating system:
 
 ```bash
 # Clone the repository
-git clone https://github.com/sihiri/sihiri.git
+git clone https://github.com/sihiri/sihiri_build.git
 cd sihiri
 
 # Install dependencies
@@ -101,15 +103,17 @@ npm install
 npm run setup
 ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from developers, artists, and creative professionals of all backgrounds. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
+
+All Rights Reserved to the SiHiRi Team and Contributors.
 
 - The global creative community
 - Open source blockchain projects that paved the way
