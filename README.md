@@ -16,14 +16,16 @@ SiHiRi is not just a platform — it's a **Creative Operating System** for creat
 
 We aim to achieve this through a phased approach over the next decade, focusing on:
 
-## Milestone Roadmap
+<!-- Milestone Roadmap section header -->
+
+** ## Milestone Roadmap
 
 ### Phase 1: Foundations
 
 - Deploy Clarity contracts for identity, ownership, and royalties
 - Build NFT primitives with dynamic metadata (supporting art, music, film, 3D)
 - Create a creator wallet & dashboard (onboarding, minting, managing works)
-- Integrate decentralized storage
+- Integrate decentralized storage (IPFS, Arweave)
 - Launch basic marketplace for artists with instant payments and fixed royalties
 - Open GitHub repo + community docs → encourage open-source collaboration
 
@@ -52,6 +54,10 @@ We aim to achieve this through a phased approach over the next decade, focusing 
 - Launch cultural preservation DAO for Indigenous and global art forms
 - Introduce eco-credit tracking system for sustainable creativity
 - Expand SiHiRi into a UNESCO-level cultural commons – the backbone of digital art, film, and music preservation worldwide
+- Foster global partnerships with art institutions, studios, and educational bodies
+
+
+<!-- Milestone Roadmap section header -->
 
 ## Development Principles
 
