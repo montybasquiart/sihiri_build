@@ -16,9 +16,7 @@ SiHiRi is not just a platform — it's a **Creative Operating System** for creat
 
 We aim to achieve this through a phased approach over the next decade, focusing on:
 
-<!-- Milestone Roadmap section header -->
-
-** ## Milestone Roadmap
+## Milestone Roadmap
 
 ### Phase 1: Foundations
 
@@ -31,7 +29,7 @@ We aim to achieve this through a phased approach over the next decade, focusing 
 
 ### Phase 2: Growth & Interoperability
 
-- Build cross-chain bridges (Ethereum, Cardano)
+- Build cross-chain bridges (Ethereum, Cardano, Solana)
 - Release SDKs & plugins for Design Apps, Blender, Figma, Unity, Unreal
 - Introduce token-gated communities for private exhibitions or fan clubs
 - Add dynamic royalty contracts (royalties based on context of use)
@@ -54,10 +52,6 @@ We aim to achieve this through a phased approach over the next decade, focusing 
 - Launch cultural preservation DAO for Indigenous and global art forms
 - Introduce eco-credit tracking system for sustainable creativity
 - Expand SiHiRi into a UNESCO-level cultural commons – the backbone of digital art, film, and music preservation worldwide
-- Foster global partnerships with art institutions, studios, and educational bodies
-
-
-<!-- Milestone Roadmap section header -->
 
 ## Development Principles
 
