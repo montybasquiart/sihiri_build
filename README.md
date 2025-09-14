@@ -6,7 +6,7 @@
 
 > A decentralized open-sourced creative ecosystem built on Clarity and Web3, empowering artists, filmmakers, musicians, game developers, and the broader creative industry.
 
-## 🎯 Core Vision
+## Core Vision
 
 SiHiRi is not just a platform — it's a **Creative Operating System** for creation, collaboration, distribution, royalties, and preservation of art in all forms:
 
@@ -16,7 +16,7 @@ SiHiRi is not just a platform — it's a **Creative Operating System** for creat
 
 We aim to achieve this through a phased approach over the next decade, focusing on:
 
-## 🗓 Milestone Roadmap
+## Milestone Roadmap
 
 ### Phase 1: Foundations (0–12 months)
 
@@ -53,7 +53,7 @@ We aim to achieve this through a phased approach over the next decade, focusing 
 - Introduce eco-credit tracking system for sustainable creativity
 - Expand SiHiRi into a UNESCO-level cultural commons – the backbone of digital art, film, and music preservation worldwide
 
-## 🧩 Development Principles
+## Development Principles
 
 - **Artist-first** → creators own their work, their royalties, and their audience
 - **Open Source** → transparent, community-driven, forkable
